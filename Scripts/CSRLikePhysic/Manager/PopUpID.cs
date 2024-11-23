@@ -1,0 +1,22 @@
+public enum PopUpID
+{
+	Invalid,
+	Default,
+	DailyBattle,
+	DeviceOlderThanProfileVersion,
+	RestoreProfile,
+	NitrousTutorial,
+	IAPMessage,
+	WelcomeMessageFromData,
+	MultiplayerLocked,
+	MultiplayerNotAvailable,
+	LowMemoryLanguageMessage,
+	LegalAgreement,
+	TwitterDelay,
+	QuitApp,
+    WaitSpinner,
+    AgeVerification,
+    PreAdPromptPopup,
+    AdResult,
+    UserRate
+}
